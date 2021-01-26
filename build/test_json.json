@@ -1,0 +1,23 @@
+{
+
+   "firstName": "Petrov",
+
+   "lastName": "Ivanov",
+
+   "address": {
+
+       "streetAddress": "Moscow sh ., 101, apart .101",
+
+       "city": "Moscow",
+
+   },
+
+   "phoneNumbers": [
+
+       "812 123-1234",
+
+       "916 123-4567"
+
+   ]
+
+}
